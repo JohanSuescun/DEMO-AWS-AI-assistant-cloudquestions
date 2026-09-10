@@ -5,13 +5,13 @@ Repositorio para la demostración práctica de un **Asistente de Inteligencia Ar
 ---
 
 ##  Tabla de Contenidos
-- [Arquitectura de Solución](#-arquitectura-de-solución)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Servicios de AWS Utilizados](#-servicios-de-aws-utilizados)
-- [Flujo de Información](#-flujo-de-información)
-- [Prerrequisitos](#-prerrequisitos)
-- [Paso a Paso: Despliegue en el Bootcamp](#-paso-a-paso-despliegue-en-el-bootcamp)
-- [Beneficios de esta Arquitectura](#-beneficios-de-esta-arquitectura)
+- [Arquitectura de Solución](#arquitectura-de-solución)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Servicios de AWS Utilizados](#servicios-de-aws-utilizados)
+- [Flujo de Información](#flujo-de-información)
+- [Prerrequisitos](#prerrequisitos)
+- [Paso a Paso: Despliegue en el Bootcamp](#paso-a-paso-despliegue-en-el-bootcamp)
+- [Beneficios de esta Arquitectura](#beneficios-de-esta-arquitectura)
 
 ---
 
@@ -27,7 +27,7 @@ Repositorio para la demostración práctica de un **Asistente de Inteligencia Ar
 
 ---
 
-## 📂 Estructura del Proyecto
+## no Estructura del Proyecto
 
 ```text
 .
